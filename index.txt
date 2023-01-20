@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>HTML, CSS and JavaScript demo</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <div class="gallery">
+<figure class="gallery__item gallery__item--1">
+    <img src="https://images.wallpaperscraft.ru/image/single/gory_fentezi_pejzazh_169831_3840x2160.jpg" class="gallery__img" alt="Image 1">
+  </figure>
+  <figure class="gallery__item gallery__item--2">
+    <img src="https://p4.wallpaperbetter.com/wallpaper/705/758/450/fantasy-art-artwork-nature-landscape-wallpaper-preview.jpg" class="gallery__img" alt="Image 2">
+  </figure>
+  <figure class="gallery__item gallery__item--3">
+    <img src="https://pw.artfile.me/wallpaper/10-05-2014/650x325/fentezi-zamki-art-pejzazh-drugoj-mir-zam-826742.jpg" class="gallery__img" alt="Image 3">
+  </figure>
+  <figure class="gallery__item gallery__item--4">
+    <img src="https://img5.goodfon.ru/wallpaper/nbig/c/9c/fentezi-art-drakony-more-skaly-nebo-peizazh.jpg" class="gallery__img" alt="Image 4">
+  </figure>
+  <figure class="gallery__item gallery__item--5">
+    <img src="https://phonoteka.org/uploads/posts/2021-05/1622012516_17-phonoteka_org-p-fentezi-art-peizazh-krasivo-24.jpg" class="gallery__img" alt="Image 5">
+  </figure>
+  <figure class="gallery__item gallery__item--6">
+    <img src="https://p4.wallpaperbetter.com/wallpaper/995/184/855/fantasy-art-fan-art-artwork-landscape-wallpaper-preview.jpg" class="gallery__img" alt="Image 6">
+  </figure>
+  </div>
+
+</body>
+</html>
