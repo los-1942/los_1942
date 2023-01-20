@@ -1,0 +1,8 @@
+article p:last-child {font-size: 120%;
+    font-weight: lighter;} 
+a:link,
+a:visited {color: #00CED1;
+    font-weight: bold;}
+a:hover {color: #DC143C;} 
+article p::first-line {font-size: 350%;
+    font-weight: bold;}

@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>HTML, CSS and JavaScript demo</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+  <body>
+<article>
+    <p >Veggies es bonus vobis, proinde vos postulo essum magis kohlrabi welsh onion daikon amaranth tatsoi tomatillo melon azuki bean <a href="https://www.google.com/search?q=%D1%87%D0%B5%D1%81%D0%BD%D0%BE%D0%BA+%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8&tbm=isch&ved=2ahUKEwis7a235uv6AhXrpYsKHSbSA6AQ2-cCegQIABAA&oq=xtcyjr&gs_lcp=CgNpbWcQARgAMgQIABBDMgcIABCABBAKMgcIABCABBAKMgcIABCABBAKMgcIABCABBAKMgcIABCABBAKMgcIABCABBAKMgcIABCABBAKMgcIABCABBAKMgcIABCABBAKOgcIABCxAxBDOggIABCABBCxAzoLCAAQgAQQsQMQgwE6CAgAELEDEIMBOgcIABCABBADOgUIABCABDoJCAAQgAQQChABOgQIABAeOgkIABCABBAKEBg6BwgAEIAEEBg6CwgAEIAEEAoQARAYUNYIWPUPYO0haABwAHgAgAFiiAHLA5IBATeYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=QatPY-zIK-vLrgSmpI-ACg&bih=969&biw=1920&rlz=1C1GCEU_ruRU999RU999#imgrc=im3Ymf9L3a1xEM">garlic</a>.</p>
+    <p>Gumbo beet greens corn soko endive gumbo gourd. Parsley shallot courgette tatsoi pea sprouts fava bean collard greens dandelion okra wakame tomato. Dandelion cucumber earthnut pea peanut soko zucchini.</p>
+</article>
+  </body>
+
+</html>
